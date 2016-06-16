@@ -1,0 +1,11 @@
+{
+    "sceneArray": ["placeholder"],
+    "placeholder": {
+        "lines": [{
+            "line": "You are in the second case! Please return to the menu, as this case is not written yet!",
+            "character": "noChar",
+            "emotion": "default",
+            "denyForward": "true"
+        }]
+    }
+  }
